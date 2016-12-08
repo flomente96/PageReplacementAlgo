@@ -152,7 +152,6 @@ public class PageReplacementPolicies {
                     frames.add(indexMax, refString[i]);
                     usage[indexMax] += 1;
                     residence[indexMax] = 0;
-                    System.out.println("Hello");
                 }
                 else if (frames.size() < noFrames){
                     
